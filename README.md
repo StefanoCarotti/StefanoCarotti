@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm Stefano Carotti, physicist, AI scientist, machine learning enthusiast 
-🎓 Education
+## 🎓 Education
 
 Bachelor degree in Computer Science
 🏫 Parma University
