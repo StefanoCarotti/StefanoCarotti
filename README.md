@@ -7,3 +7,7 @@ Bachelor degree in Computer Science
 
 Master degree in Artificial Intelligence: Modelling of complex systems 
 🏫 Unimi - Unipv - UniMiB
+
+## 👨🏻‍💻 Work Experience
+
+From 01/03/25: Intership in the Complex Human Behaviour Unit at Fondazione Bruno Kessler - FBK 
