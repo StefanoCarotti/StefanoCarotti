@@ -10,4 +10,4 @@ Master degree in Artificial Intelligence: Modelling of complex systems
 
 ## 👨🏻‍💻 Work Experience
 
-From 01/03/25: Intership in the Complex Human Behaviour Unit at Fondazione Bruno Kessler - FBK 
+From 01/03/25: Internship in the Complex Human Behaviour Unit at Fondazione Bruno Kessler - FBK 
